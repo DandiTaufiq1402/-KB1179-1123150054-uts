@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # kb1179_11231500_uts
 
 A new Flutter project.
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# -KB1179-1123150054-uts
+>>>>>>> 51823367d20fc62e2c31fe0640f32551c7bd165f
