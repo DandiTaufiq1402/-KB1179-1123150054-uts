@@ -1,20 +1,16 @@
-<<<<<<< HEAD
-# kb1179_11231500_uts
+Nama : Dandi Taufiqurrahman
+NIM : 1123150054
 
-A new Flutter project.
+# 🚀 Flutter Project
 
-## Getting Started
+Project ini dibuat menggunakan **Flutter** untuk pengembangan aplikasi mobile berbasis **Dart**.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## ⚙️ Cara Menjalankan Project
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Ikuti langkah sederhana berikut untuk menjalankan aplikasi:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# -KB1179-1123150054-uts
->>>>>>> 51823367d20fc62e2c31fe0640f32551c7bd165f
+klik terminal lalu jalankan prompt " flutter run "
+
+<img width="1308" height="612" alt="mobile5" src="https://github.com/user-attachments/assets/56cef9ce-a8c0-4663-9225-9c8f0248bfc3" />
